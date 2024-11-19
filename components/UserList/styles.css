@@ -1,0 +1,23 @@
+.userContainer {
+    padding: 24px;
+    max-width: 700px;
+    margin: 0 auto;
+    background-color: #c0ffc8;
+    border-radius: 8px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.userTitle {
+    font-weight: bold;
+    color: #0f2815;
+    margin-bottom: 15px;
+}
+
+.userItem {
+    padding: 12px 16px;
+    transition: background-color 0.3s ease;
+}
+
+.userName {
+    color: #2b2b2b;
+}
